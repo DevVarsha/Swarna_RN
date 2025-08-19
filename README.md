@@ -9,8 +9,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npm install
    ```
+2. generate android ios folder
+   ```bash
+   npx expo prebuild
+   ```
 
-2. Start the app
+3. Start the app
 
    ```bash
    npx expo start
